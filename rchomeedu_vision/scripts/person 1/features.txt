@@ -1,0 +1,1 @@
+The 1st person is named mike, has gender: male and beard: yes, and there is other person and it is located right.
