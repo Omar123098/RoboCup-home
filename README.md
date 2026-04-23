@@ -136,3 +136,7 @@ The run starts with map scanning and ends with a full guest report to the host.
 ## License
 
 Add your preferred license information here.
+
+## Competition Photo
+
+![Egypt Champions](Egypt%20Champions.jpeg)
